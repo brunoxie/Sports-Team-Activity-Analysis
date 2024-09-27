@@ -1,4 +1,5 @@
 # Sports Team Activity Analysis
+A real-world data analytics project for a sports technology company using SQL and Tableau by Bruno Xie
 
 ## Overview
 This project analyzes team engagement and activity data for a sports technology company that offers performance analysis tools for coaches and players. The primary focus is to evaluate upload frequency, user video consumption, team retention, and upload behavior across various team levels. The goal of this analysis is to provide insights into customer behavior and inform retention and marketing strategies for different types of teams, with special attention to identifying trends that might help improve customer engagement.
@@ -17,7 +18,7 @@ The analysis is based on internal team activity data from the company. It includ
 4. **Visualization**: The cleaned and processed data was exported into Tableau for visualization, presenting actionable insights on team activity, retention, and engagement patterns.
 
 ## SQL Script
-The SQL code used to clean and analyze the data, as well as the Tableau dashboard, are included [here](Code.sql) in the repository. 
+The SQL code used to clean and summarize the data is included [here](Code.sql) in the repository. 
 
 ## Tableau Dashboard
 The data was transformed into Tableau dashboards. The tableau file can be found [here](Dashboard.twb). The actual dashboards are [here](Dashboards).
