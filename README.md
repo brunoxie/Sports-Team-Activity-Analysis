@@ -5,7 +5,7 @@ A real-world data analytics project for a sports technology company using __SQL_
 This project analyzes team engagement and activity data for a sports technology company that offers performance analysis tools for coaches and players. The primary focus is to evaluate upload frequency, user video consumption, team retention, and upload behavior across various team levels. The goal of this analysis is to provide insights into customer behavior and inform retention and marketing strategies for different types of teams, with special attention to identifying trends that might help improve customer engagement.
 
 ## Data Source
-The analysis is based on internal team activity data from the company. It includes metrics such as the number of uploads, user video views, team retention rates, and team level breakdowns (Varsity, JV, etc.). It consists of anonymized data points for thousands of teams across multiple states. The dataset can be found [here](Data/team_activity.csv).
+The analysis is based on anonymized simulation data of internal team activity from the company. It includes metrics such as the number of uploads, user video views, team retention rates, and team level breakdowns (Varsity, JV, etc.). It consists of anonymized data points for thousands of teams across multiple states. The dataset can be found [here](Data/team_activity.csv).
 
 ## Methodology
 1. **Data Loading**: The raw data was loaded into MySQL Workbench, and corresponding tables were created for further processing.
