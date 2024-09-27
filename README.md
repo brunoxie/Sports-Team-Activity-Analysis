@@ -23,5 +23,5 @@ The SQL code used to clean and summarize the data is included [here](Code.sql) i
 ## Tableau Dashboard
 The summary numbers created by the SQL code was loaded into Tableau and several dashboards were created. The Tableau workbook can be found [here](Dashboard.twb). The actual Tableau dashboards are [here](Dashboards).
 
-## Analysis
+## Deliverable
 The final deliverable of this project is a detailed analysis answering multiple business questions regarding team activity and user behavior. The Tableau dashboards created are included in it as well. One can find the analysis [here](Analysis%20Summary.pdf).
